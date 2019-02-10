@@ -1,3 +1,0 @@
-[submodule "docker-dhcpd"]
-	path = docker-dhcpd
-	url = https://github.com/babim/docker-dhcpd.git
